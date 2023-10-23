@@ -1,0 +1,21 @@
+body{
+    text-align:center;
+    color: white;
+    background-color: rgb(158, 158, 219);
+}
+
+.titulo {
+    font-family: monospace;
+    color: black;
+}
+
+.subtitulo {
+    font-family: monospace;
+}
+
+#meuBotao {
+    background-color: rgb(142, 111, 172);
+    border-radius: 12px;
+    height: 25px;
+    width: 75px;
+}
